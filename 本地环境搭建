@@ -3,4 +3,13 @@
 xcode-select --install
 
 2 homebrew
-3
+3  watchman   flow
+
+npm install -g react-native-cli@0.1.10
+
+react-native -v
+
+react-native init imooc
+
+cd imooc
+react-native run-ios
