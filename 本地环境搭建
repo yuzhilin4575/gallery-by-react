@@ -18,4 +18,7 @@ react-native run-ios
 react-native init hello --source react-native@0.22.2
 
 
-react-native init yuzhilin --version 0.22.2
+react-native init yuzhilin --version 0.22.2  或者
+
+
+改packjson里的版本
