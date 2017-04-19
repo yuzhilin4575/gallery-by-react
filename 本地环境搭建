@@ -13,3 +13,6 @@ react-native init imooc
 
 cd imooc
 react-native run-ios
+
+
+react-native init hello --source react-native@0.22.2
